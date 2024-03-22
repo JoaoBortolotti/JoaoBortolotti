@@ -5,16 +5,15 @@
 - 😄 Pronouns: Ele/Dele
 - 📫 Me contate no email: joaomarcosbortolotti@gmail.com
 
-<div>
+<div style="width:100%;">
   <a href="https://github.com/JoaoBortolotti">
-  <img aling="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoBortolotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img aling="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBortolotti&layout=compact&langs_count=16&theme=dark"/>
+  <img aling="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=JoaoBortolotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img aling="rigth" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBortolotti&layout=compact&langs_count=16&theme=dark"/>
 </div>
-    
+
   ##
     
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="Joao-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
   <img align="center" alt="Joao-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
