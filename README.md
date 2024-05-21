@@ -12,8 +12,7 @@
   <img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBortolotti&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-##      
-## 
+##     
  
 <div style="display: inline_block"> <br>
   <a align="center" href="https://instagram.com/joaom.bortolotti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
