@@ -7,7 +7,7 @@
 <li>🍃 Name: João Marcos Ventura Bortolotti</li>
 <li>📆 Age: 21 years</li>
 <li>🎩 Occupation: Full Stack Developer</li>
-</li>💚 Nationality: Brazilian<li>
+<li>💚 Nationality: Brazilian</li>
 <br>
 <li>🎓 Currently studying for a degree in Computer Science!</li>
 </ul>
