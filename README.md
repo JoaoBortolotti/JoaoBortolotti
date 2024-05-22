@@ -2,14 +2,19 @@
 
 ### :space_invader: &nbsp;About Me
 
-Name: João Marcos Ventura Bortolotti
-Age: 21 years
-Nationality: Brazilian
-Occupation: Full Stack Developer
 
-Currently studying for a degree in Computer Science!
+<ul style = "list-style-type:none">
+<li>🍃 Name: João Marcos Ventura Bortolotti</li>
+<li>📆 Age: 21 years</li>
+<li>🎩 Occupation: Full Stack Developer</li>
+</li>💚 Nationality: Brazilian<li>
+<br>
+<li>🎓 Currently studying for a degree in Computer Science!</li>
+</ul>
 
 
+
+<br>
 
 <p align="center">
   <a href="mailto:joaomarcosbortolotti@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,6 +25,7 @@ Currently studying for a degree in Computer Science!
 
 
 <hr/>
+<br>
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
@@ -69,11 +75,8 @@ Currently studying for a degree in Computer Science!
       <img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBortolotti&layout=compact&langs_count=16&theme=dark"/>
     </div>
 </details>
-
+<br>
 <hr/>
-
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=JoaoBortolotti&style=plastic&label=Views"><img>
