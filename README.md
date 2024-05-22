@@ -1,6 +1,9 @@
 <img src="images/svg/header_en.svg"></img>
 
-### :space_invader: &nbsp;About Me
+<p>
+Full Stack Developer passionate about creating innovative solutions. Experience in web development, using technologies such as HTML, CSS, JavaScript and PHP.
+</p>
+<h3>About Me</h3>
 
 
 <ul style = "list-style-type:none">
