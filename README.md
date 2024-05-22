@@ -2,6 +2,14 @@
 
 ### :space_invader: &nbsp;About Me
 
+Name: João Marcos Ventura Bortolotti
+Age: 21 years
+Nationality: Brazilian
+Occupation: Full Stack Developer
+
+Currently studying for a degree in Computer Science!
+
+
 
 <p align="center">
   <a href="mailto:joaomarcosbortolotti@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,6 +17,7 @@
   <a href="https://www.linkedin.com/in/jmbortolotti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
 
 <hr/>
 
@@ -62,6 +71,9 @@
 </details>
 
 <hr/>
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=JoaoBortolotti&style=plastic&label=Views"><img>
