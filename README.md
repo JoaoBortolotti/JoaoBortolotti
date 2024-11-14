@@ -1,7 +1,7 @@
 <img src="images/svg/header_en.svg"></img>
 
 <p>
-Full Stack Developer passionate about creating innovative solutions. Experience in web development, using technologies such as HTML, CSS, JavaScript and PHP.
+Full Stack Developer passionate about creating innovative solutions. Experience in web development, using technologies such as HTML, CSS, JavaScript, Python, PHP in frameworks like Django and Laravel.
 </p>
 <h3>About Me</h3>
 
